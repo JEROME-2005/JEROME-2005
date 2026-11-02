@@ -75,7 +75,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Dementia Risk Prediction System**]([https://github.com/JEROME-2005/Dementia-Tracker]) | An AI-powered web application for non-invasive dementia risk assessment using lifestyle and demographic factors. | `React` `Node.js` `JupiterNotebook` `Python` |
+| [**Dementia Risk Prediction System**](https://github.com/JEROME-2005/Dementia-Tracker) | An AI-powered web application for non-invasive dementia risk assessment using lifestyle and demographic factors. | `React` `Node.js` `JupiterNotebook` `Python` |
 | [**Employee Stress Tracker**](https://github.com/JEROME-2005/Employee-Stress-Tracker) | A desktop-based stress monitoring and employee wellbeing application built with Python and Tkinter. | `Python` `Flask` `Tkinter` |
 | [**ConstructAI ERP System**](https://github.com/JEROME-2005/ERP-Construction-Web-Application) |A comprehensive Enterprise Resource Planning (ERP) system designed specifically for construction project management, built with Spring Boot and React.s | `Java` `Spring Boot` `React` |
 
